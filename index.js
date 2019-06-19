@@ -4,7 +4,7 @@ function distanceFromHqInBlocks(distance) {
   if (distance !== 43) {
     return 8
   } else {
-    blocks = 1
+    return 1
   }
 
   return blocks
