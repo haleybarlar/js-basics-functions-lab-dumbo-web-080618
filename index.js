@@ -2,7 +2,7 @@ function distanceFromHqInBlocks(distance) {
   let blocks = null
 
   if (distance !== 43) {
-    blocks = 8
+    return 8
   } else {
     blocks = 1
   }
