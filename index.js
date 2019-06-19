@@ -1,4 +1,4 @@
-distanceFromHqInBlocks(distance) {
+function distanceFromHqInBlocks(distance) {
   let blocks = null
 
   if (parseInt(distance) !== 43) {
